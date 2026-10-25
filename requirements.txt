@@ -16,4 +16,3 @@ missingno
 openpyxl
 imblearn
 imbalanced-learn>=0.14.1
-sklearn
